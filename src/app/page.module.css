@@ -1,6 +1,6 @@
-.hello-world {
-  color: red;
-  font-size: 20px;
+.editor {
+  width: 100vw;
+  height: 100vh;
 }
 
 .main {
